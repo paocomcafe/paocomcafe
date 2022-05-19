@@ -6,3 +6,4 @@
 - 🌱 eu estou aprendendo a programar recentemente a linguagem de java escript e scratch
 
 https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=whith
+!{}()
